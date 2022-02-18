@@ -1,4 +1,4 @@
 - 👋 Hi, My name is Sayed
 - 👀 I’m interested in Computer Engineering especially Embedded Systems and i like coding a lot.
-- 🌱 I’m currently learning Computer Engineering
+- 🌱 I’m currently learning Computer Systems Engineering
 - 📫 Contact me at sayedmohsen635@gmail.com , +201224679835 
